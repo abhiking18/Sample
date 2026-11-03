@@ -1,0 +1,6 @@
+{
+  "name": "Hearth & Home Cleaning Co.",
+  "description": "Human-crafted residential and commercial cleaning service for thoughtful homes and spaces in the US and UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
